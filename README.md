@@ -1,10 +1,23 @@
-# React + Vite
+Este proyecto es una aplicación de facturación destinada a usuarios y dueños de negocios. Permite la emisión de facturas, automatiza la carga de datos al portal tributario Marangatu en Paraguay, y ofrece análisis y proyecciones basadas en los datos de ventas. La aplicación está diseñada para ser fácil de usar y ofrece una solución integral para la gestión contable y de facturación.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Características
 
-Currently, two official plugins are available:
+- Emisión de facturas en formato PDF.
+- Registro y gestión de facturas.
+- Automatización de la carga de datos al portal Marangatu.
+- Almacenamiento de datos en una base de datos SQL.
+- Análisis de datos y generación de reportes.
+- Exportación de datos a Excel.
+- Integración con pasarelas de pago.
+- Soporte para múltiples usuarios y roles.
+- Personalización de marca para empresas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# facturas_app
-# facturas_app
+## Tecnologías Utilizadas
+
+- **Backend**: Python (Django/Flask)
+- **Frontend**: React/Angular/Vue.js
+- **Base de Datos**: PostgreSQL/MySQL
+- **Generación de PDFs**: ReportLab/wkhtmltopdf
+- **Análisis de Datos**: pandas, numpy, scikit-learn
+- **Automatización de Carga**: Selenium
+- **Control de Versiones**: Git/GitHub
