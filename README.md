@@ -1,4 +1,5 @@
 Este proyecto es una aplicación de facturación destinada a usuarios y dueños de negocios. Permite la emisión de facturas, automatiza la carga de datos al portal tributario Marangatu en Paraguay, y ofrece análisis y proyecciones basadas en los datos de ventas. La aplicación está diseñada para ser fácil de usar y ofrece una solución integral para la gestión contable y de facturación.
+Este repo inconcluso es exclusivamente de uso en tests personales y para sumarle peso a mi porfolio de proyectos, el proyecto real esta en privado y sigue en construccion y en un estado aun mas avanzado.
 
 ## Características
 
